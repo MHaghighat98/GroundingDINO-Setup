@@ -26,7 +26,7 @@ PyTorch implementation and pretrained models for Grounding DINO. For details, se
 
 - :grapes: [[Read our arXiv Paper](https://arxiv.org/abs/2303.05499)]
 - :apple:  [[Watch our simple introduction video on YouTube](https://youtu.be/wxWDt5UiwY8)]
-- :blossom:   &nbsp;[[Try the Colab Demo](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb)]
+- :blossom:   &nbsp;[[Try the Colab Demo](https://colab.research.google.com/drive/11JFOvrDhxOshP5u-9JoERgJk7yXB8mk_?authuser=1#scrollTo=8er1uLGdSQvy)]
 - :sunflower: [[Try our Official Huggingface Demo](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo)]
 - :maple_leaf: [[Watch the Step by Step Tutorial about GroundingDINO by Roboflow AI](https://youtu.be/cMa77r3YrDk)]
 - :mushroom: [[GroundingDINO: Automated Dataset Annotation and Evaluation by Roboflow AI](https://youtu.be/C4NqaRBz_Kw)]
